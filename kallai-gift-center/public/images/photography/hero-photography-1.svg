@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A1942"/>
+      <stop offset="100%" stop-color="#9A3155"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="640" cy="120" r="140" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="500" r="180" fill="#000000" opacity="0.06"/>
+  <text x="50%" y="52%" font-family="Georgia, serif" font-size="34" fill="#ffffff" fill-opacity="0.85" text-anchor="middle" dominant-baseline="middle">Wedding Photography</text>
+  <text x="50%" y="60%" font-family="Georgia, serif" font-size="15" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" dominant-baseline="middle">Kallai Gift Center</text>
+</svg>
